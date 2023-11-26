@@ -1,0 +1,184 @@
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\UserAPI.exe
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\UserAPI.deps.json
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\UserAPI.runtimeconfig.json
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\UserAPI.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\UserAPI.pdb
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.csproj.AssemblyReference.cache
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfo.cs
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CoreCompileInputs.cache
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\scopedcss\bundle\UserAPI.styles.css
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CopyComplete
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\refint\UserAPI.dll
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.pdb
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.genruntimeconfig.cache
+C:\Users\pritam.bake\Desktop\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\ref\UserAPI.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\UserAPI.exe
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\UserAPI.deps.json
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\UserAPI.runtimeconfig.json
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\UserAPI.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\UserAPI.pdb
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.csproj.AssemblyReference.cache
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfo.cs
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CoreCompileInputs.cache
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\scopedcss\bundle\UserAPI.styles.css
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CopyComplete
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\refint\UserAPI.dll
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.pdb
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.genruntimeconfig.cache
+C:\Users\Pritam Gurjar\Downloads\Batch_5\WEBAPI\UserAPI\obj\Debug\net6.0\ref\UserAPI.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\UserAPI.exe
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\UserAPI.deps.json
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\UserAPI.runtimeconfig.json
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\UserAPI.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\UserAPI.pdb
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.csproj.AssemblyReference.cache
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfo.cs
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CoreCompileInputs.cache
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\scopedcss\bundle\UserAPI.styles.css
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CopyComplete
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\refint\UserAPI.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.pdb
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\UserAPI.genruntimeconfig.cache
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\obj\Debug\net6.0\ref\UserAPI.dll
+C:\Users\VIKAS MODI\Desktop\WEBAPI1\WEBAPI\UserAPI\bin\Debug\net6.0\Newtonsoft.Json.dll

@@ -1,0 +1,16 @@
+
+<div class="card-layout">
+    <div class="card" *ngFor="let product of products" style="width: 18rem;">
+        <img src={{product.imgPath}} class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">{{product.name}}</h5>
+            <h5 class="card-title">{{product.description}}</h5>
+            <h5 class="card-title">{{product.price}}</h5>
+            <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+            <a routerLink="/deleteProduct/{{product.id}}" class="btn btn-primary" >Delete Product</a>
+            <a routerLink="/updateProduct/{{product.id}}" class="btn btn-primary" >Update Product</a>
+            <!-- <button mat-raised-button type= "submit"color="accent" routerLink="deleteProduct">Delete Product</button> -->
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,24 @@
+<form #product="ngForm" (ngSubmit)="addProduct(product.value)" style="border:1px solid #ccc">
+    <div class="container">
+      <h1>Add Product</h1>
+      
+    
+      <label for="name"><b>Product Name</b></label>
+      <input type="text" placeholder="Enter Product Name" name="name" ngModel>
+  
+      <label for="description"><b>Product Description</b></label>
+      <input type="text" placeholder="Enter Product Description" name="description" ngModel>
+  
+      <label for="imagepath"><b>Image Path</b></label>
+      <input type="text" placeholder="Enter Image Path" name="imgPath" ngModel>
+  
+      <label for="price"><b>Price</b></label>
+      <input type="text" placeholder="Enter Price" name="price" ngModel>
+  
+      <div class="clearfix">
+        <button type="button" class="cancelbtn">Cancel</button>
+        <button type="submit" class="signupbtn">Add</button>
+      </div>
+    </div>
+  </form>
+

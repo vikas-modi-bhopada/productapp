@@ -1,0 +1,25 @@
+
+<form [formGroup]="edit" (ngSubmit)="updateProduct(edit.value)" style="border:1px solid #ccc">
+    <div class="container">
+      <h1>Update Product</h1>
+      
+    
+      <label for="name"><b>Product Name</b></label>
+      <input type="text" placeholder="Enter Product Name"  formControlName="name" name="name" ngModel>
+  
+      <label for="description"><b>Product Description</b></label>
+      <input type="text" placeholder="Enter Product Description" formControlName="description" name="description" ngModel>
+  
+      <label for="imagepath"><b>Image Path</b></label>
+      <input type="text" placeholder="Enter Image Path" formControlName="imgPath" name="imgPath" ngModel>
+  
+      <label for="price"><b>Price</b></label>
+      <input type="text" placeholder="Enter Price" formControlName="price" name="price" ngModel>
+  
+      <div class="clearfix">
+        <button type="button" class="cancelbtn">Cancel</button>
+        <button type="submit" class="signupbtn">Update</button>
+      </div>
+    </div>
+  </form>
+

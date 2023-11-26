@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserAPI", "UserAPI\UserAPI.csproj", "{780D21BD-A9E5-4CB5-A641-F889A437C577}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductAPI", "ProductAPI\ProductAPI.csproj", "{FB1EE07B-4507-40B3-92C7-FF55EDBDE8D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingApi", "BookingApi\BookingApi.csproj", "{37E36195-C7A9-462D-97C4-67AE5F3CE1B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{780D21BD-A9E5-4CB5-A641-F889A437C577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780D21BD-A9E5-4CB5-A641-F889A437C577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780D21BD-A9E5-4CB5-A641-F889A437C577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780D21BD-A9E5-4CB5-A641-F889A437C577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB1EE07B-4507-40B3-92C7-FF55EDBDE8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1EE07B-4507-40B3-92C7-FF55EDBDE8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1EE07B-4507-40B3-92C7-FF55EDBDE8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1EE07B-4507-40B3-92C7-FF55EDBDE8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37E36195-C7A9-462D-97C4-67AE5F3CE1B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E36195-C7A9-462D-97C4-67AE5F3CE1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E36195-C7A9-462D-97C4-67AE5F3CE1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E36195-C7A9-462D-97C4-67AE5F3CE1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19DDEFCD-CDEB-498D-9F00-1CD62E0808DA}
+	EndGlobalSection
+EndGlobal
